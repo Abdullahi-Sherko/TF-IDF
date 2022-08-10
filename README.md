@@ -1,5 +1,5 @@
 # implementation of Term Frequency Inverse Document Frequency
-TF-IDF is measures the importance of a word for a document in a corpus.
+TF-IDF measures the importance of a word for a document in a corpus.
 
 two metrics are multiplied to calculate TF-IDF
   1) TF frequency of a word in a document
