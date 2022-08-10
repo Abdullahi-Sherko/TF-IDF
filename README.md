@@ -16,3 +16,5 @@ then
 1) import tfidf
 2) tf-idf = tfidf.TF-IDF(your_corpus, your_stopwords)
 3) tfidf.tf_idf()
+
+**corpus must be list of sentences -> ['hello world', 'I am a data scientist']**
